@@ -1,0 +1,23 @@
+{
+  "name": "Telegram MD x PL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "fs": "latest",
+    "path": "latest",
+    "moment-timezone": "latest",
+    "node-telegram-bot-api": "^0.64.0",
+    "@octokit/rest": "latest",
+    "pino": "^9.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
